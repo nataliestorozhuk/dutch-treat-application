@@ -1,0 +1,9 @@
+{
+  "Colors": {
+    "Favorite": "Blue"
+  },
+  "ConnectionStrings": {
+    "DutchContextDb": "server=.; database=DutchContextDb; Integrated Security=true; Multiple Active ResultSets = true;"
+  },
+  "AllowedHosts": "*"
+}
